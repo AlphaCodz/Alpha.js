@@ -1,1 +1,3 @@
-console.log(2+2)
+const name = (10)
+console.log(typeof(name))
+
